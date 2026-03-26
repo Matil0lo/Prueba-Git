@@ -10,6 +10,9 @@ namespace LaChakanaPrueba
     {
         static void Main(string[] args)
         {
+            //Alo
+
+            private string ola;
         }
     }
 }
