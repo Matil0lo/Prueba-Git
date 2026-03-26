@@ -13,6 +13,8 @@ namespace LaChakanaPrueba
             //Alo
 
             private string ola;
+
+            int numero = 0;
         }
     }
 }
