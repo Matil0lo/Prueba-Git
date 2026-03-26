@@ -14,7 +14,7 @@ namespace LaChakanaPrueba
 
             private string ola;
 
-            int numero = 0;
+            
         }
     }
 }
